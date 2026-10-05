@@ -9,3 +9,5 @@ I'm learning software engineering by building real-world projects and understand
 - Backend Development
 - Databases
 - Software Architecture
+
+LETS GO
