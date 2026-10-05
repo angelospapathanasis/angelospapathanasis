@@ -1,4 +1,4 @@
-# Hi, I'm Your Name 👋
+# Hi, Angelos Papathanasis 👋
 
 I'm learning software engineering by building real-world projects and understanding how software systems work.
 
